@@ -2,8 +2,8 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 18px;
   padding-top: 100px;
-  
 }
+
 
 button {
   padding: 16px;
@@ -25,7 +25,7 @@ nav {
   position: fixed;
   top: 0;
   width: 100%;
-  background: white;
+  background: white;  
 }
 
 nav ul {
@@ -38,6 +38,7 @@ nav li {
   display: inline-block;
   padding-top: 24px;
   padding-bottom: 24px;
+  padding-left: 0px;
 }
 
 nav a {
